@@ -1,4 +1,4 @@
-# Discord Bot using open-ai and golang
+# Discord Bot using Open-AI and Golang
 
 ## Quick start
 
